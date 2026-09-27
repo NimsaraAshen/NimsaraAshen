@@ -75,10 +75,10 @@
   <a href="https://www.Authorityoflumina.com">
     <img src="https://img.shields.io/badge/Website-Authority_of_Lumina-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:Nimsaraashen291@gmail.com">
+  <a href="mailto:ashenn129@gmail.com">
     <img src="https://img.shields.io/badge/Email-Nimsaraashen291@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="tel:+940759172014">
+  <a href="tel:+940724363686">
     <img src="https://img.shields.io/badge/Phone-+94_75_917_2014-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
