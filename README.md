@@ -22,7 +22,7 @@
       <ul>
         <li>🎓 Pursuing <b>Higher Diploma in IT & Business Management</b> at Orion College[cite: 1]</li>
         <li>📜 Completed <b>NVQ Level 4 in ICT</b>[cite: 1]</li>
-        
+        <li>🌐 Founder / Webmaster at <a href="https://www.Authorityoflumina.com"><b>Authority of Lumina</b></a>[cite: 1]</li>
         <li>📍 Based in <b>Balabowa, Dewalapola, Sri Lanka</b>[cite: 1]</li>
       </ul>
     </td>
@@ -78,7 +78,7 @@
   <a href="mailto:ashenn129@gmail.com">
     <img src="https://img.shields.io/badge/Email-Nimsaraashen291@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="tel:+940724363686">
+  <a href="tel:+94724363686">
     <img src="https://img.shields.io/badge/Phone-+94_75_917_2014-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
