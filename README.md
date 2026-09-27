@@ -22,7 +22,7 @@
       <ul>
         <li>🎓 Pursuing <b>Higher Diploma in IT & Business Management</b> at Orion College[cite: 1]</li>
         <li>📜 Completed <b>NVQ Level 4 in ICT</b>[cite: 1]</li>
-        <li>🌐 Founder / Webmaster at <a href="https://www.Authorityoflumina.com"><b>Authority of Lumina</b></a>[cite: 1]</li>
+        
         <li>📍 Based in <b>Balabowa, Dewalapola, Sri Lanka</b>[cite: 1]</li>
       </ul>
     </td>
